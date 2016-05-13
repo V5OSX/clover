@@ -11,7 +11,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02KYNIIFGYYLEEHZ</string>
+		<string>C02KCA0BFGYYLINUX</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>ChassisAssetTag</key>
@@ -29,9 +29,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro11,1</string>
 		<key>SerialNumber</key>
-		<string>C02KYNIIFGYY</string>
+		<string>C02KCA0BFGYY</string>
 		<key>SmUUID</key>
-		<string>4A8695D7-7D94-451B-AFA9-DE1B71207554</string>
+		<string>DC35E3FE-B05E-4399-BC34-F33C4BC2E62A</string>
 		<key>Trust</key>
 		<false/>
 		<key>Version</key>
