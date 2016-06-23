@@ -407,7 +407,7 @@
 					<key>Serial</key>
 					<string>00001001</string>
 					<key>Size</key>
-					<integer>4096</integer>
+					<integer>8192</integer>
 					<key>Slot</key>
 					<string>1</string>
 					<key>Type</key>
